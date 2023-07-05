@@ -11,7 +11,7 @@ Architecture is a project inspired by the beauty and creativity of architectural
 ### Getting Started
 To explore and contribute to Architecture, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/architecture.git](https://github.com/santiagomunoz15/Architecture.git
+Clone the repository: git clone https://github.com/santiagomunoz15/Architecture.git
 Open index.html in your web browser.
 Browse through the captivating architectural images and enjoy the immersive experience.
 Contributing
